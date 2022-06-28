@@ -1,3 +1,5 @@
+#Implemented by the NeuralABC lab
+
 import numpy as np
 
 def calc_penalties(data, vectors, index):
